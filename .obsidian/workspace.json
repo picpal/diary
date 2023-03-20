@@ -18,8 +18,153 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fad35b01d2b3e399",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My Home/Develope/ChatGPT/Prompt/Software Development.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fb58686598d9c218",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My Home/Develope/ChatGPT/Prompt/Analytics Team.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "008e81d6bdd70b0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My Home/Develope/ChatGPT/Prompt/Marketing Team.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a66ce5b5d5c8a51e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My Home/Develope/ChatGPT/Prompt/Creative Team.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "25a9a02e3c48836b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My Home/Develope/ChatGPT/Prompt/Analytics Team.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e2588fef9fee5af1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My Home/Develope/ChatGPT/Prompt/Growth Marketing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "62f79bb08d92500b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My Home/Develope/ChatGPT/Prompt/Branding.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "53f7c60be38f52f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My Home/Develope/ChatGPT/Prompt/Copywriting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c2bb01408b4c5d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My Home/Develope/ChatGPT/Prompt/Sales.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98e1209de45d0895",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My Home/Develope/ChatGPT/Prompt/Work Productivity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9bbd01d240031686",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My Home/Develope/ChatGPT/Prompt/Personal Growth.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc2716508a13b167",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My Home/Develope/ChatGPT/Prompt/Finance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -85,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "My Home/Develope/ChatGPT/Prompt/Finance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "My Home/Develope/ChatGPT/Prompt/Finance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +270,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "My Home/Develope/ChatGPT/Prompt/Finance.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 247.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,12 +291,31 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9d9ed2f9235a0cae",
+  "active": "bc2716508a13b167",
   "lastOpenFiles": [
-    "무제 파일.canvas",
+    "My Home/Develope/ChatGPT/Prompt/Personal Growth.md",
+    "My Home/Develope/ChatGPT/Prompt/Finance.md",
+    "My Home/Develope/ChatGPT/Prompt/Work Productivity.md",
+    "My Home/Develope/ChatGPT/Prompt/Sales.md",
+    "My Home/Develope/ChatGPT/Prompt/Copywriting.md",
+    "My Home/Develope/ChatGPT/Prompt/Branding.md",
+    "My Home/Develope/ChatGPT/Prompt/Growth Marketing.md",
+    "My Home/Develope/ChatGPT/Prompt/Analytics Team.md",
+    "My Home/Develope/ChatGPT/Prompt/Account Management.md",
+    "My Home/Develope/ChatGPT/Prompt/Creative Team.md",
+    "My Home/Develope/ChatGPT/Prompt/Marketing Team.md",
+    "My Home/Develope/ChatGPT/Prompt/Software Development.md",
     "README.md",
-    "무제 폴더",
-    "새 텍스트 문서.txt",
-    "새 폴더"
+    "My Home/Develope/ChatGPT/Prompt",
+    "My Home/Develope/ChatGPT",
+    "My Home/Etc",
+    "My Home/무제 폴더/무제 폴더",
+    "My Home/Resume",
+    "My Home/Favorite Site",
+    "My Home/Project",
+    "My Home/Develope",
+    "My Home/Study",
+    "무제 폴더/무제 폴더",
+    "무제 파일.canvas"
   ]
 }
