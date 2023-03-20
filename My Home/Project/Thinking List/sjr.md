@@ -60,11 +60,52 @@ C:\Users\bwc\Desktop\picpal\pyprj\venvs\myapi\Scripts>activate
 
 ### mac
 
+가상환경을 설치한 디렉토리의 bin으로 이동
+```bash
+pahkey@mymac venvs % cd myapi/bin 
+```
+
+해당 디렉토리에서 activate 실행하여 가상환경 진입
+```bash
+pahkey@mymac bin % source activate 
+```
 
 
 ## 가상 환경에서 벗어나기
+
+### window
 
 가상환경에서 나오고 싶은경우 아래의 deactivate 명령어로 나오면 됨
 ```bash
 (myapi) C:\Users\bwc\Desktop\picpal\pyprj\venvs\myapi\Scripts>deactivate
 ```
+
+
+### mac
+```bash
+(myapi) pahkey@mymac bin % deactivate
+```
+
+## 가상 환경에 패키지 설치
+
+fastapi를 예로 설치 ( 설치하면 해당 가상환경에만 설치되며 다른 가상환경에 영향이 없다. )
+```bash
+(myapi) C:\Users\bwc\Desktop\picpal\pyprj\venvs\myapi\Scripts>pip install fastapi
+```
+
+위의 명령어 실행 시 pip가 최신버전이 아닌 경우 오류가 날 수 있다. 아래의 명령어로 업데이트 후 다시 설치 실행.
+```bash
+python -m pip install --upgrade pip
+```
+
+
+
+## VS code 에서 가상환경 쉽게 진입하기
+> 선행적으로 python 패키지가 설치되어 있어야 함.
+
+
+ctrl + shft + p 를 누르면 해당 창이 열리는데 select interpreter 검색시 아래와 같은 항목이 나온다.
+![[Pasted image 20230320160515.png]]
+
+
+
