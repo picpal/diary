@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "My Home/Develope/ChatGPT/Prompt/Python.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -162,21 +162,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "952cc8fe75809027",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "My Home/Develope/ChatGPT/Prompt/Software Development.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 13
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,7 +192,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "****",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -222,8 +209,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -243,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Home/Develope/ChatGPT/Prompt/Software Development.md",
+                "file": "My Home/Develope/ChatGPT/Prompt/Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +246,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Home/Develope/ChatGPT/Prompt/Software Development.md",
+                "file": "My Home/Develope/ChatGPT/Prompt/Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -283,7 +269,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Home/Develope/ChatGPT/Prompt/Software Development.md"
+                "file": "My Home/Develope/ChatGPT/Prompt/Python.md"
               }
             }
           }
@@ -304,10 +290,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "a3df38f6072abc55",
+  "active": "9d9ed2f9235a0cae",
   "lastOpenFiles": [
-    "My Home/Develope/ChatGPT/Prompt/Python.md",
+    "README.md",
+    "My Home/Develope/ChatGPT/Prompt/Software Development.md",
     "My Home/Develope/ChatGPT/Prompt/Finance.md",
+    "무제 파일.canvas",
+    "My Home/Develope/ChatGPT/Prompt/Python.md",
     "My Home/Develope/ChatGPT/Prompt/Personal Growth.md",
     "My Home/Develope/ChatGPT/Prompt/Work Productivity.md",
     "My Home/Develope/ChatGPT/Prompt/Sales.md",
@@ -318,8 +307,6 @@
     "My Home/Develope/ChatGPT/Prompt/Account Management.md",
     "My Home/Develope/ChatGPT/Prompt/Creative Team.md",
     "My Home/Develope/ChatGPT/Prompt/Marketing Team.md",
-    "My Home/Develope/ChatGPT/Prompt/Software Development.md",
-    "README.md",
     "My Home/Develope/ChatGPT/Prompt",
     "My Home/Develope/ChatGPT",
     "My Home/Etc",
@@ -329,7 +316,6 @@
     "My Home/Project",
     "My Home/Develope",
     "My Home/Study",
-    "무제 폴더/무제 폴더",
-    "무제 파일.canvas"
+    "무제 폴더/무제 폴더"
   ]
 }
