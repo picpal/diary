@@ -162,9 +162,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "952cc8fe75809027",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My Home/Develope/ChatGPT/Prompt/Software Development.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -193,7 +205,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "****",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -210,7 +222,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -230,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Home/Develope/ChatGPT/Prompt/Finance.md",
+                "file": "My Home/Develope/ChatGPT/Prompt/Software Development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +260,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Home/Develope/ChatGPT/Prompt/Finance.md",
+                "file": "My Home/Develope/ChatGPT/Prompt/Software Development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +283,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Home/Develope/ChatGPT/Prompt/Finance.md"
+                "file": "My Home/Develope/ChatGPT/Prompt/Software Development.md"
               }
             }
           }
@@ -291,10 +304,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "bc2716508a13b167",
+  "active": "a3df38f6072abc55",
   "lastOpenFiles": [
-    "My Home/Develope/ChatGPT/Prompt/Personal Growth.md",
+    "My Home/Develope/ChatGPT/Prompt/Python.md",
     "My Home/Develope/ChatGPT/Prompt/Finance.md",
+    "My Home/Develope/ChatGPT/Prompt/Personal Growth.md",
     "My Home/Develope/ChatGPT/Prompt/Work Productivity.md",
     "My Home/Develope/ChatGPT/Prompt/Sales.md",
     "My Home/Develope/ChatGPT/Prompt/Copywriting.md",
