@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9d9ed2f9235a0cae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "My Home/Develope/ChatGPT/Prompt/Python.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "fad35b01d2b3e399",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Home/Develope/ChatGPT/Prompt/Software Development.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "67282b68b91f3f6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My Home/Project/Thinking List/sjr.md",
                 "mode": "source",
                 "source": false
               }
@@ -163,7 +163,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -229,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Home/Develope/ChatGPT/Prompt/Python.md",
+                "file": "My Home/Project/Thinking List/sjr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Home/Develope/ChatGPT/Prompt/Python.md",
+                "file": "My Home/Project/Thinking List/sjr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Home/Develope/ChatGPT/Prompt/Python.md"
+                "file": "My Home/Project/Thinking List/sjr.md"
               }
             }
           }
@@ -290,14 +291,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "9d9ed2f9235a0cae",
+  "active": "67282b68b91f3f6b",
   "lastOpenFiles": [
-    "My Home/Develope/무제 파일.md",
-    "My Home/Develope/ChatGPT/Prompt/Python.md",
     "README.md",
+    "My Home/Project/Thinking List/sjr.md",
+    "My Home/Project/Thinking List.md",
+    "My Home/Project/Thinking List",
+    "무제 파일.canvas",
+    "My Home/Develope/ChatGPT/Prompt/Python.md",
+    "My Home/Develope/무제 파일.md",
     "My Home/Develope/ChatGPT/Prompt/Software Development.md",
     "My Home/Develope/ChatGPT/Prompt/Finance.md",
-    "무제 파일.canvas",
     "My Home/Develope/ChatGPT/Prompt/Personal Growth.md",
     "My Home/Develope/ChatGPT/Prompt/Work Productivity.md",
     "My Home/Develope/ChatGPT/Prompt/Sales.md",
@@ -316,7 +320,6 @@
     "My Home/Favorite Site",
     "My Home/Project",
     "My Home/Develope",
-    "My Home/Study",
-    "무제 폴더/무제 폴더"
+    "My Home/Study"
   ]
 }
