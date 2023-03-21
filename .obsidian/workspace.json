@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Home/Project/Thinking List/sjr.md",
-                "mode": "source",
+                "file": "My Home/Develope/ChatGPT/Prompt/Software Development.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Home/Project/Thinking List/sjr.md",
+                "file": "My Home/Develope/ChatGPT/Prompt/Software Development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Home/Project/Thinking List/sjr.md",
+                "file": "My Home/Develope/ChatGPT/Prompt/Software Development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Home/Project/Thinking List/sjr.md"
+                "file": "My Home/Develope/ChatGPT/Prompt/Software Development.md"
               }
             }
           }
@@ -293,9 +293,9 @@
   },
   "active": "67282b68b91f3f6b",
   "lastOpenFiles": [
+    "My Home/Project/Thinking List/sjr.md",
     "Pasted image 20230320160515.png",
     "README.md",
-    "My Home/Project/Thinking List/sjr.md",
     "My Home/Project/Thinking List.md",
     "My Home/Project/Thinking List",
     "무제 파일.canvas",

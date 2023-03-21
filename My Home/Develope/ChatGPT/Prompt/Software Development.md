@@ -9,8 +9,9 @@
 4.  Based on the [design pattern], create a code snippet in [language] that demonstrates its implementation for a [use case].
     
 5.  Write a [language] script to perform [task] using [library/framework] with the following requirements: [requirements list].
-    
-6.  [name]이라는 [class/module/component]를 위한 보일러플레이트 [language] 코드를 생성하며, 다음과 같은 기능이 있습니다: [functionality description].
+
+
+1.  [name]이라는 [class/module/component]를 위한 보일러플레이트 [language] 코드를 생성하며, 다음과 같은 기능이 있습니다: [functionality description].
     
 7.  [data structure]에서 [operation]을 수행하기 위한 [language] 함수를 작성합니다. 입력 변수: [input variables], 예상 출력: [output description].
     
@@ -32,6 +33,7 @@
 4.  Fill in the missing [language] code to implement error handling for the following function: `[code snippet]`.
     
 5.  Complete the following [language] loop that iterates over [data structure] and performs [operation]: `[code snippet]`.
+
 
 1.  [언어]에서 다음 값을 가진 [데이터 구조]를 초기화하는 코드 스니펫을 완성하십시오: `[코드 스니펫]`.
     
