@@ -81,8 +81,9 @@
 4.  Evaluate the modularity and maintainability of the given [language] code: `[code snippet]`.
     
 5.  Assess the performance of the following [language] code and provide optimization suggestions: `[code snippet]`.
-    
-6.  다음 [언어] 코드를 검토하여 개선점을 제안하십시오 : `[코드 스니펫]`.
+
+
+1.  다음 [언어] 코드를 검토하여 개선점을 제안하십시오 : `[코드 스니펫]`.
     
 7.  [코딩 스타일 가이드]를 준수하는지 분석하십시오 : `[코드 스니펫]`.
     
