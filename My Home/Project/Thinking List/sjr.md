@@ -109,3 +109,9 @@ ctrl + shft + p 를 누르면 해당 창이 열리는데 select interpreter 검�
 
 
 
+
+
+# 파이썬 함수
+
+- .get_attribute("outerHTML")
+	- webElement를 html 형태로 보여줌

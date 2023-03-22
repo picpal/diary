@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Home/Develope/ChatGPT/Prompt/Python.md",
-                "mode": "preview",
+                "file": "My Home/Project/Thinking List/sjr.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Home/Develope/ChatGPT/Prompt/Python.md",
+                "file": "My Home/Project/Thinking List/sjr.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Home/Develope/ChatGPT/Prompt/Python.md",
+                "file": "My Home/Project/Thinking List/sjr.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Home/Develope/ChatGPT/Prompt/Python.md"
+                "file": "My Home/Project/Thinking List/sjr.md"
               }
             }
           }
@@ -293,8 +293,8 @@
   },
   "active": "67282b68b91f3f6b",
   "lastOpenFiles": [
-    "My Home/Project/Thinking List/sjr.md",
     "My Home/Develope/ChatGPT/Prompt/Python.md",
+    "My Home/Project/Thinking List/sjr.md",
     "My Home/Develope/ChatGPT/Prompt/Software Development.md",
     "Pasted image 20230320160515.png",
     "README.md",
