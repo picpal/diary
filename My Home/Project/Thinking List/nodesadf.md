@@ -7,4 +7,19 @@
 3. 계속해서 설명해줘
 4. 크롤링 페이지로 이동하기 위해서 로그인 후 특정 버튼을 클릭하는 기능을 추가해줘
 5. page.click('#login-button') 에서 선택자를 xpath를 사용할 수 있니?
-6. 
+
+
+
+# NodeJs crawler
+
+## 참고 사이트
+
+	https://www.letmecompile.com/javascript-crawler-tutorial-part3/
+	
+	https://velog.io/@choi-ju12g/%EB%82%A8%EB%8F%84%ED%95%99%EC%88%99-%EC%8B%9D%EB%8B%A8-%EC%96%B4%ED%94%8C-2.-Node.js%EB%A5%BC-%EB%A1%9C%EA%B7%B8%EC%9D%B8%EC%9D%B4-%ED%95%84%EC%9A%94%ED%95%9C-%ED%8E%98%EC%9D%B4%EC%A7%80-%ED%81%AC%EB%A1%A4%EB%A7%81-%ED%95%98%EA%B8%B0
+	
+	https://velog.io/@jekyem/NodeJS%EB%A1%9C-%ED%81%AC%EB%A1%A4%EB%A7%81%EC%9D%84-%ED%95%B4%EB%B3%B4%EC%9E%90
+
+
+## 필요 라이브러리
+- 
