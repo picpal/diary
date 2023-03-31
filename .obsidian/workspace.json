@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Home/Develope/ChatGPT/Prompt/Software Development.md",
+                "file": "My Home/Develope/ChatGPT/Prompt/Work Productivity.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Home/Develope/ChatGPT/Prompt/Software Development.md",
+                "file": "My Home/Develope/ChatGPT/Prompt/Work Productivity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Home/Develope/ChatGPT/Prompt/Software Development.md",
+                "file": "My Home/Develope/ChatGPT/Prompt/Work Productivity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Home/Develope/ChatGPT/Prompt/Software Development.md"
+                "file": "My Home/Develope/ChatGPT/Prompt/Work Productivity.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "032ae748f90ef7d6",
   "lastOpenFiles": [
-    "My Home/Develope/ChatGPT/Prompt/Work Productivity.md",
     "My Home/Develope/ChatGPT/Prompt/Software Development.md",
+    "My Home/Develope/ChatGPT/Prompt/Work Productivity.md",
     "My Home/Develope/ChatGPT/Prompt/Sales.md",
     "My Home/Develope/ChatGPT/Prompt/Python.md",
     "My Home/Develope/ChatGPT/Prompt/Account Management.md",
