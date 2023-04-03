@@ -23,12 +23,16 @@
 
 ## How?
 1. create NextJs app (자동 생성 사용)
-```bash
-npx create-next-app@latest --typescript
-```
+	```bash
+	npx create-next-app@latest --typescript
+	```
 
-2. 설치된 경로로 이동하여 정상 설치 확인
-> url : http://localhost:3000
-```bash
-npm dev run or yarn dev
-```
+2. 설치된 경로로 이동하여 정상 설치 확인 (http://localhost:3000)
+
+	```bash
+	npm run dev 
+	or 
+	yarn dev
+	```
+
+3.  
