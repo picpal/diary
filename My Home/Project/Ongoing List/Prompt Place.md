@@ -1,7 +1,7 @@
 # Project Structure
 
 - front end : javascript, typescript, react, nextJs, tailwindCSS
-- back end : nextJs, postgreSQL
+- back end : nextJs, mysql
 
 # Domain 
 - AWS ( www.promptseed.io )
@@ -9,7 +9,6 @@
 
 # Hosting & SSL
 -  AWS
-
 
 # #1 Create NextJs framework
 ## why?
