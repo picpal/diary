@@ -1,10 +1,10 @@
 # Project Structure
 
 - front end : javascript, typescript, react, nextJs, tailwindCSS
-- back end : nextJs, mysql
+- back end : java, springboot, jpa, mysql
 
 # Domain 
-- AWS ( www.promptseed.io )
+- AWS ( www.promptseed.dev )
 - promptseed - "prompt"와 "seed"를 통합한 이름으로, 새로운 아이디어에 영감(씨앗)을 주고 육성하는 창의적인 프롬프트를 공유
 
 # Hosting & SSL
