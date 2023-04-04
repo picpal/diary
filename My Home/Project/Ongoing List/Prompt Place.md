@@ -35,4 +35,4 @@
 	yarn dev
 	```
 
-3.  
+3.  https://potato-yong.tistory.com/70
