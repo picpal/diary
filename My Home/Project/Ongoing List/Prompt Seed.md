@@ -35,4 +35,12 @@
 	yarn dev
 	```
 
+
+
+# Server
+## AWS
+
+## Architecture
+
 3.  https://potato-yong.tistory.com/70
+4.  https://awstip.com/lets-create-3-tier-architecture-with-aws-6c836bddc023
