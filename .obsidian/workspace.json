@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Home/Project/Ongoing List/Prompt Seed.md",
+                "file": "My Home/Develope/ChatGPT/Prompt/Work Productivity.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Home/Project/Ongoing List/Prompt Seed.md",
+                "file": "My Home/Develope/ChatGPT/Prompt/Work Productivity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Home/Project/Ongoing List/Prompt Seed.md",
+                "file": "My Home/Develope/ChatGPT/Prompt/Work Productivity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Home/Project/Ongoing List/Prompt Seed.md"
+                "file": "My Home/Develope/ChatGPT/Prompt/Work Productivity.md"
               }
             }
           }
@@ -161,9 +161,9 @@
   },
   "active": "5a0f7ad61269d496",
   "lastOpenFiles": [
+    "My Home/Project/Ongoing List/Prompt Seed.md",
     "My Home/Project/Ongoing List",
     "My Home/Develope/ChatGPT/Prompt/Sales.md",
-    "My Home/Project/Ongoing List/Prompt Seed.md",
     "My Home/Develope/ChatGPT/Prompt/Python.md",
     "My Home/Develope/ChatGPT/Prompt/Software Development.md",
     "My Home/Develope/ChatGPT/Prompt/Work Productivity.md",
@@ -191,7 +191,6 @@
     "My Home/Resume",
     "My Home/Favorite Site",
     "My Home/Project",
-    "My Home/Develope",
-    "My Home/Study"
+    "My Home/Develope"
   ]
 }
