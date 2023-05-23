@@ -1,5 +1,7 @@
 1. Generate a list of 10 creative email campaign ideas to increase client engagement for our agency's accounting services.
 
+account
+
 Context:
 
 Target audience — Small and medium-sized businesses
